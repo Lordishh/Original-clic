@@ -12,3 +12,9 @@ body {
   height: 100vh;
   font-family: "Open Sans", sans-serif;
 }
+
+@media (max-width: 768px) {
+  .mybtn {
+    width: 100%;
+  }
+}
